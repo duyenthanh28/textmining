@@ -8,3 +8,8 @@ The goal of the project is to perform sentiment analysis on Universal Studios re
 branches and to find attributes that help understand why the customer liked or disliked the specific theme
 park. Vader Sentiment Analyzer is used to classify the text into Positive/Negative reviews and TF-IDF is
 used for Feature Extraction. Topic modeling performed to understand the top 10 important topics.
+
+As a csv file is big, I couldnot attach it, so you can download at
+https://www.kaggle.com/dwiknrd/reviewuniversalstudio. This dataset is reviews written by the
+customers for their visiting experience over the years. This dataset contains 5000 reviews and has 6
+attributes.
